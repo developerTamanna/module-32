@@ -18,12 +18,25 @@ sum(12,3,5,67,8,8,6)
 // console.log(person)
 
 
-const person ={
-    name:'tamanna',
-    age: 43
+// const person ={
+//     name:'tamanna',
+//     age: 43
+// };
+// function sum(obj){
+//       obj.name = 'lima'
+// }
+// sum(person);
+// console.log(person)
+
+
+person ={
+    name:'sathi',
+    age:'45'
 };
+
 function sum(obj){
-      obj.name = 'lima'
-}
+       obj.name = 'ruba'
+};
+
 sum(person);
 console.log(person)
